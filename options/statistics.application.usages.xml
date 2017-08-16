@@ -1,0 +1,207 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="thirdinformation" values="IDEA_MODULE,Properties,XML,JAVA" collectionTime="1502806044061" />
+      <project id="learn-concurrent-thread" values="Git file,XML,JAVA" collectionTime="1502198027722" />
+      <project id="alarmcore" values="SQL,Markdown,HTML,Images,DTD,PLAIN_TEXT,JavaScript,JSON,CSS,JAVA,JSP,Properties,UNKNOWN,IDEA_MODULE,XML,SourceMap" collectionTime="1502769325079" />
+      <project id="cache" values="JAVA,IDEA_MODULE,XML" collectionTime="1501486845243" />
+      <project id="learn-imQueue" values="Properties,JAVA,IDEA_MODULE,Git file,XML" collectionTime="1502597359065" />
+      <project id="alarmcore_update" values="Images,JSON,SourceMap,JSP,Properties,SQL,CSS,JAVA,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,HTML,DTD,Markdown,XML,JavaScript" collectionTime="1502854666578" />
+      <project id="learn-regex" values="IDEA_MODULE,XML,JAVA" collectionTime="1502283721327" />
+      <project id="alarmcore_taowx" values="XML,UNKNOWN,SourceMap,CSS,JavaScript,Properties,PLAIN_TEXT,IDEA_MODULE,SQL,JSP,JAVA,Images,HTML,JSON,Markdown" collectionTime="1502845281333" />
+    </group>
+    <group name="spring">
+      <project id="thirdinformation" values="fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0" collectionTime="1502806044082" />
+      <project id="alarmcore" values="fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0" collectionTime="1502769325125" />
+      <project id="cache" values="fileset_autodetect_NONE" collectionTime="1501486848239" />
+      <project id="learn-imQueue" values="fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_code.alibabatech.com/schema/dubbo,fileset_userConfiguredPerFacet_1,xmlNS_www.springframework.org/schema/context,fileset_autodetect_NONE,xmlNS_www.springframework.org/schema/tx" collectionTime="1502597359087" />
+      <project id="alarmcore_update" values="fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE" collectionTime="1502854666582" />
+      <project id="alarmcore_taowx" values="fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_userConfiguredPerFacet_0,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_userConfiguredPerFacet_0" collectionTime="1502845281352" />
+    </group>
+    <group name="images.ide.background">
+      <project id="thirdinformation" values="editor=0,frame=0" collectionTime="1502806044074" />
+      <project id="learn-concurrent-thread" values="frame 0,editor 0" collectionTime="1502198027727" />
+      <project id="alarmcore" values="frame 0,editor 0" collectionTime="1502769325097" />
+      <project id="cache" values="editor 0,frame 0" collectionTime="1501486845268" />
+      <project id="learn-imQueue" values="editor 0,frame 0" collectionTime="1502597359066" />
+      <project id="alarmcore_update" values="frame=0,editor=0" collectionTime="1502854666580" />
+      <project id="learn-regex" values="editor 0,frame 0" collectionTime="1502283721327" />
+      <project id="alarmcore_taowx" values="editor=0,frame=0" collectionTime="1502845281334" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="thirdinformation" values="MySQL/5.7.18" collectionTime="1502806044081" />
+    </group>
+    <group name="frameworks">
+      <project id="thirdinformation" values="Spring" collectionTime="1502806043978" />
+      <project id="alarmcore" values="Spring,web" collectionTime="1502769325000" />
+      <project id="cache" values="Spring,kotlin-language" collectionTime="1501486845078" />
+      <project id="learn-imQueue" values="Spring" collectionTime="1502597358982" />
+      <project id="alarmcore_update" values="web,Spring" collectionTime="1502854666490" />
+      <project id="alarmcore_taowx" values="Spring,web" collectionTime="1502845281265" />
+    </group>
+    <group name="vcs">
+      <project id="learn-concurrent-thread" values="Git" collectionTime="1502198027652" />
+      <project id="alarmcore" values="svn" collectionTime="1502769324999" />
+      <project id="learn-imQueue" values="Git" collectionTime="1502597358982" />
+      <project id="alarmcore_update" values="svn" collectionTime="1502854666490" />
+      <project id="alarmcore_taowx" values="svn" collectionTime="1502845281265" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="thirdinformation" values="Application" collectionTime="1502806043978" />
+      <project id="learn-concurrent-thread" values="Application" collectionTime="1502198027654" />
+      <project id="alarmcore" values="Application" collectionTime="1502769325000" />
+      <project id="cache" values="Application" collectionTime="1501486845081" />
+      <project id="learn-imQueue" values="Application" collectionTime="1502597358982" />
+      <project id="learn-regex" values="Application" collectionTime="1502283721279" />
+      <project id="alarmcore_taowx" values="Application" collectionTime="1502845281266" />
+    </group>
+    <group name="libraries">
+      <project id="thirdinformation" values="spring" collectionTime="1502806044074" />
+      <project id="alarmcore" values="spring-mvc,TransactionJavaee,spring" collectionTime="1502769325097" />
+      <project id="cache" values="spring-mvc,kotlin-java-runtime,spring" collectionTime="1501486845268" />
+      <project id="learn-imQueue" values="spring" collectionTime="1502597359065" />
+      <project id="alarmcore_update" values="spring-mvc,spring,TransactionJavaee" collectionTime="1502854666580" />
+      <project id="alarmcore_taowx" values="TransactionJavaee,spring-mvc,spring" collectionTime="1502845281334" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="learn-concurrent-thread" values="data.commit.count.1+,data.git.root.count.1,data.users.count.1+,data.branches.count.1+" collectionTime="1502198027727" />
+      <project id="learn-imQueue" values="data.git.root.count.1,data.commit.count.1+,data.branches.count.1+,data.users.count.1+" collectionTime="1502597359066" />
+    </group>
+    <group name="vcs-options">
+      <project id="thirdinformation" values="commit.before.reformat.project.disabled,commit.before.rearrange.disabled,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,commit.before.check.files.up.to.date.disabled,show.changes.preview.disabled,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,commit.before.reformat.file.disabled,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,include.text.into.shelf.enabled" collectionTime="1502806043977" />
+      <project id="learn-concurrent-thread" values="include.text.into.shelf.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,perform.checkout.in.background.enabled,perform.edit.in.background.enabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,commit.before.reformat.file.disabled,commit.before.rearrange.disabled,perform.update.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.files.up.to.date.disabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled" collectionTime="1502198027653" />
+      <project id="alarmcore" values="perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,commit.before.check.todo.enabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.code.smell.disabled,changelist.make.new.active.disabled,perform.rollback.in.background.disabled" collectionTime="1502769325000" />
+      <project id="cache" values="commit.show.unversioned.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,perform.commit.in.background.enabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.files.up.to.date.disabled,perform.add_remove.in.background.enabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,perform.update.in.background.enabled,commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled" collectionTime="1501486845077" />
+      <project id="learn-imQueue" values="perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.files.up.to.date.disabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled,commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,commit.before.optimize.imports.disabled,commit.show.unversioned.enabled,show.changes.preview.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.reformat.file.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.rearrange.disabled,commit.use.right.margin.enabled" collectionTime="1502597358982" />
+      <project id="alarmcore_update" values="commit.before.check.code.smell.enabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation" collectionTime="1502854666490" />
+      <project id="learn-regex" values="commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.file.disabled,changelist.make.new.active.disabled,commit.before.rearrange.disabled,perform.commit.in.background.enabled,commit.before.optimize.imports.disabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,offer.move.partially.committed.disabled,check.conflicts.in.background.disabled,commit.before.check.todo.enabled,include.text.into.shelf.enabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,perform.checkout.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.code.smell.enabled" collectionTime="1502283721277" />
+      <project id="alarmcore_taowx" values="commit.before.check.code.smell.enabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,commit.before.check.files.up.to.date.disabled,show.changes.preview.disabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled,perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,include.text.into.shelf.enabled,commit.before.reformat.file.disabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled" collectionTime="1502845281265" />
+    </group>
+    <group name="Spring MVC">
+      <project id="alarmcore" values="mvcModelsInProject_1,viewResolvers_0,fileset_webXml,fileset_webXml" collectionTime="1502769325156" />
+      <project id="alarmcore_taowx" values="fileset_webXml,viewResolvers_0,mvcModelsInProject_1,fileset_webXml" collectionTime="1502845281410" />
+      <project id="alarmcore_update" values="fileset_webXml,fileset_webXml,mvcModelsInProject_1,viewResolvers_0" collectionTime="1502854666703" />
+    </group>
+    <group name="Git">
+      <project id="thirdinformation" values="config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1502806044079" />
+      <project id="learn-concurrent-thread" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,data.remote.branches.count.1" collectionTime="1502198027736" />
+      <project id="alarmcore" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1502769325124" />
+      <project id="cache" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1501486847994" />
+      <project id="learn-imQueue" values="config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.local.branches.count.1,data.remote.branches.count.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1" collectionTime="1502597359086" />
+      <project id="alarmcore_update" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1502854666582" />
+      <project id="learn-regex" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1502283721330" />
+      <project id="alarmcore_taowx" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1502845281352" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="thirdinformation" values="spring-core_4.3.10.RELEASE" collectionTime="1502806044079" />
+      <project id="alarmcore" values="spring-mvc_3.2.9.RELEASE,spring-core_3.2.9.RELEASE" collectionTime="1502769325124" />
+      <project id="cache" values="spring-core_4.0.5.RELEASE,spring-mvc_4.1.5.RELEASE" collectionTime="1501486847992" />
+      <project id="learn-imQueue" values="spring-core_4.2.5.RELEASE,spring-data-commons_1.13.6.RELEASE" collectionTime="1502597359086" />
+      <project id="alarmcore_update" values="spring-core_3.2.9.RELEASE,spring-mvc_3.2.9.RELEASE" collectionTime="1502854666582" />
+      <project id="alarmcore_taowx" values="spring-mvc_3.2.9.RELEASE,spring-core_3.2.9.RELEASE" collectionTime="1502845281351" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="thirdinformation" values="Project" collectionTime="1502806044081" />
+      <project id="learn-concurrent-thread" values="Project" collectionTime="1502198027937" />
+      <project id="alarmcore" values="Directory,Project" collectionTime="1502769325124" />
+      <project id="cache" values="Project" collectionTime="1501486848235" />
+      <project id="learn-imQueue" values="Project" collectionTime="1502597359086" />
+      <project id="alarmcore_update" values="Project,Directory" collectionTime="1502854666582" />
+      <project id="learn-regex" values="Project" collectionTime="1502283721330" />
+      <project id="alarmcore_taowx" values="Directory,Project" collectionTime="1502845281352" />
+    </group>
+    <group name="module type">
+      <project id="thirdinformation" values="JAVA_MODULE" collectionTime="1502806043978" />
+      <project id="learn-concurrent-thread" values="JAVA_MODULE" collectionTime="1502198027653" />
+      <project id="alarmcore" values="JAVA_MODULE" collectionTime="1502769325000" />
+      <project id="cache" values="JAVA_MODULE" collectionTime="1501486845079" />
+      <project id="learn-imQueue" values="JAVA_MODULE" collectionTime="1502597358982" />
+      <project id="alarmcore_update" values="JAVA_MODULE" collectionTime="1502854666490" />
+      <project id="learn-regex" values="JAVA_MODULE" collectionTime="1502283721277" />
+      <project id="alarmcore_taowx" values="JAVA_MODULE" collectionTime="1502845281265" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="thirdinformation" values="com.mysql.jdbc.Driver" collectionTime="1502806044081" />
+    </group>
+    <group name="svn working copy format">
+      <project id="alarmcore" values="1.8" collectionTime="1502769325124" />
+      <project id="alarmcore_taowx" values="1.8" collectionTime="1502845281352" />
+      <project id="alarmcore_update" values="1.8" collectionTime="1502854666582" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="thirdinformation" values="ECMAScript 5.1" collectionTime="1502806044081" />
+      <project id="learn-concurrent-thread" values="ECMAScript 5.1" collectionTime="1502198027937" />
+      <project id="alarmcore" values="ECMAScript 5.1" collectionTime="1502769325124" />
+      <project id="cache" values="ECMAScript 5.1" collectionTime="1501486848235" />
+      <project id="learn-imQueue" values="ECMAScript 5.1" collectionTime="1502597359086" />
+      <project id="alarmcore_update" values="ECMAScript 5.1" collectionTime="1502854666582" />
+      <project id="learn-regex" values="ECMAScript 5.1" collectionTime="1502283721330" />
+      <project id="alarmcore_taowx" values="ECMAScript 5.1" collectionTime="1502845281352" />
+    </group>
+    <group name="module-language-level">
+      <project id="thirdinformation" values="JDK_1_7" collectionTime="1502806044079" />
+      <project id="learn-concurrent-thread" values="JDK_1_5" collectionTime="1502198027735" />
+      <project id="alarmcore" values="JDK_1_7" collectionTime="1502769325124" />
+      <project id="cache" values="JDK_1_5" collectionTime="1501486847993" />
+      <project id="learn-imQueue" values="JDK_1_5" collectionTime="1502597359086" />
+      <project id="alarmcore_update" values="JDK_1_7" collectionTime="1502854666582" />
+      <project id="learn-regex" values="JDK_1_5" collectionTime="1502283721330" />
+      <project id="alarmcore_taowx" values="JDK_1_7" collectionTime="1502845281352" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="alarmcore_taowx" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1502845281266" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="20" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="debugger.reload.classes" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="64" />
+      <entry feature="execute.Application.Debug" count="95" />
+      <entry feature="execute.Application.Run" count="556" />
+      <entry feature="execute.JUnit.Run" count="8" />
+      <entry feature="execute.TomeeConfiguration.Run" count="5" />
+      <entry feature="ide.settings.Appearance" count="15" />
+      <entry feature="ide.settings.Application&#10;Servers" count="2" />
+      <entry feature="ide.settings.CodeGlance" count="3" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Color_Scheme_Font" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Eclipse_Code_Formatter" count="3" />
+      <entry feature="ide.settings.Editor_Tabs" count="9" />
+      <entry feature="ide.settings.Excludes" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="4" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="5" />
+      <entry feature="ide.settings.Grep_Console" count="7" />
+      <entry feature="ide.settings.Inspections" count="7" />
+      <entry feature="ide.settings.Java_Compiler" count="6" />
+      <entry feature="ide.settings.Live_Templates" count="4" />
+      <entry feature="ide.settings.Maven" count="3" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.Subversion" count="2" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.TomEE_Server" count="2" />
+      <entry feature="ide.settings.Tomcat_Server" count="2" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="23" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="4" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="47" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="2" />
+      <entry feature="terminal.win" count="24" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="4" />
+      <entry feature="uml.ShowDiagram.MAVEN.popup" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

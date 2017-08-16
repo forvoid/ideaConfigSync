@@ -1,0 +1,70 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/text/DateFormat.java" timestamp="1499857284906" />
+      <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Calendar.java" timestamp="1499856777541" />
+      <file name="$USER_HOME$/IdeaProjects/f/src/main/java/ShowOtherTime.java" timestamp="1499858174407">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/f/pom.xml" timestamp="1499832201785">
+        <mark key="[" line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="76" filename="$USER_HOME$/IdeaProjects/f/src/main/java/ShowOtherTime.java" />
+      <jump line="14" column="12" filename="$USER_HOME$/IdeaProjects/f/src/main/java/ShowOtherTime.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2FsZW5kYXIgY2FsZW5kYXIgPSBuZXcgCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2FsZW5kYXIgY2FsZW5kYXIgPSBuZXcgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
